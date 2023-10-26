@@ -98,7 +98,8 @@
         "colorClass": "color-flight"
       },
       "deadline": "2023-03-23",
-      "id": 2
+      "id": 2,
+      "status": "inProgress"
     },
     {
       "taskName": "Task Three",
@@ -144,7 +145,23 @@
         "colorClass": "color-bookstore"
       },
       "id": 5,
-      "status": "completed"
+      "status": "complete"
+    },
+    {
+      "taskName": "Xavier Doyle",
+      "teamMember": {
+        "name": "Ferdous Hassan",
+        "avatar": "/images/avatars/ferdous.png",
+        "id": 6
+      },
+      "project": {
+        "id": 3,
+        "projectName": "Product Cart",
+        "colorClass": "color-productCart"
+      },
+      "deadline": "2011-08-06",
+      "status": "inProgress",
+      "id": 6
     }
   ]
 }
